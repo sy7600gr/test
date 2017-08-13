@@ -10,7 +10,8 @@ echo 'xxxx';
 ?>
 dd
 用
-gi
+g
+ 用gi
 th
 u
 ph
