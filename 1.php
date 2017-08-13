@@ -8,6 +8,5 @@
  */
 echo 'xxxx';
 ?>
-用g
-
-ithub
+用gith
+ub
