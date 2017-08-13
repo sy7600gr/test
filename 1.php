@@ -9,8 +9,3 @@
 echo 'xxxx';
 ?>
 dd
-用
-g
-th
-u
-ph
