@@ -9,6 +9,7 @@
 echo 'xxxx';
 ?>
 dd
-用gi
+用
+gi
 th
 u
