@@ -1,4 +1,5 @@
 <?php
+fdsaf
 /**
  * Created by PhpStorm.
  * User: Joinsen
@@ -6,6 +7,5 @@
  * Time: 9:55
  */
 echo 'xxxx';
-
 ?>
-用github
+@用github
