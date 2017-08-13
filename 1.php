@@ -11,7 +11,6 @@ echo 'xxxx';
 dd
 用
 g
- 用gi
 th
 u
 ph
