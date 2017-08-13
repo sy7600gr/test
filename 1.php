@@ -9,4 +9,3 @@
 echo 'xxxx';
 ?>
 d
-d
