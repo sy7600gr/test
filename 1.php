@@ -9,6 +9,7 @@ echo 'xxxx';
 
 ?>
 
-用github
+用git
+hub
 
 
