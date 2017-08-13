@@ -8,8 +8,4 @@
 echo 'xxxx';
 
 ?>
-
-用git
-hub
-
-
+用github
